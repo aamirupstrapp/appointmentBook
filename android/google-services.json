@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062296391936",
+    "project_id": "salonapp-777cc",
+    "storage_bucket": "salonapp-777cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062296391936:android:30de407e9320e13e4da3e5",
+        "android_client_info": {
+          "package_name": "com.fabzig.salonapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sfJJwM8IDMaq2buBVAy930ZngNPTJJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
